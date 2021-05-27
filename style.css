@@ -1,0 +1,91 @@
+#pro{
+  border-color:black;
+  border:solid;
+  margin-top:70px;
+  width:400px;
+  border-radius:60px;
+}
+body{
+  text-align:center;
+  background-color:aquamarine; 
+}
+.line {
+    height:5px;
+    background-color:black;
+    width:200px;
+    margin:8px auto;
+    text-align:center;
+}
+#bio{
+  color:lightskyblue;
+}
+ul{
+    list-style: none;
+    font-family:serif;
+    position: absolute;
+    right: 30px;
+    cursor: pointer;
+    background-color:antiquewhite;
+    display:flex;
+    padding:10px;
+}
+a{
+    text-decoration:none;
+}
+#welcome{
+    background-color:darkorchid;
+    padding-bottom:25px;
+}
+#hobbies{
+    background-color:aquamarine
+}
+#chararev{
+    background-color:orange;
+    padding:30px;
+}
+#paps{
+    height:250px;
+    width:350px;
+}
+.article{
+    background-color:gold;
+    padding:5px;
+}
+.links{
+    margin:5px; 
+}
+#des{
+    background-color:darkmagenta;
+    padding:30px; 
+}
+#work{
+    background-color:darkorange;
+    padding:30px; 
+}
+.insimg{
+    border:solid;
+    border-color:chocolate;
+    height:350px;
+    border-width:7px; 
+}
+#inspir{
+    background-color:greenyellow;
+    padding:10px; 
+}
+#dog{
+    margin-right:4px; 
+}
+#main{
+    margin-left:4px; 
+}
+.insimg:hover{
+    transform:scale(0.9);
+}
+#map{
+    padding:25px;
+    background-color:darkturquoise;
+}
+#em{
+    padding-top:25px; 
+    width:25px; 
+}
